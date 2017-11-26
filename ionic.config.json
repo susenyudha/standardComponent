@@ -1,0 +1,8 @@
+{
+  "name": "sygMC",
+  "app_id": "c308a776",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
